@@ -1,0 +1,5 @@
+---
+- module-name: "mitmproxy"
+  implicit-imports:
+    - depends:
+        - "mitmproxy-macos"
